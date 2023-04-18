@@ -12,7 +12,6 @@
 
 ```
 g++ `pkg-config opencv4 --cflags --libs` stiv_angle.cpp
-
 ```
 
 前提是你有gcc编译器并安装了opencv4库和pkg-config软件包。
